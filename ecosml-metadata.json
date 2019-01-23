@@ -2,6 +2,10 @@
   "id": "2bf2267e-9e64-4933-ba75-82a2d6d5c174",
   "name": "Townsend_PLS_2018",
   "overview": "PLS model for deriving carbon, carotenoid area, carotenoid mass, cellulose, chlorophyll ab area, chlorophyll ab mass, fiber, lignin, LMA, and nitrogen",
+  "keywords": [],
+  "theme": [],
+  "family": [],
+  "specific": [],
   "organization": "uw-ferst",
   "language": "python",
   "owner": "ewagner"
