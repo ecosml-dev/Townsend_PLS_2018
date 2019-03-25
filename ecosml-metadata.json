@@ -14,8 +14,12 @@
     "lignen",
     "nitrogen"
   ],
-  "theme": [],
-  "family": [],
+  "theme": [
+    "chemistry"
+  ],
+  "family": [
+    "nitrogen"
+  ],
   "specific": [],
   "organization": "uw-ferst",
   "language": "python",
